@@ -5,7 +5,7 @@ Simple [Streamlit](https://streamlit.io/) application to label websites. Can be 
 
 To run directly:
 ```
-streamlit run
+streamlit run https://raw.githubusercontent.com/dharmeshkakadia/website_labeler/master/app.py
 ```
 
 To run from within repository:
